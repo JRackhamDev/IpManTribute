@@ -6,4 +6,13 @@
     <link rel="stylesheet" href="styles.css" />
 </head>
 
-<header> </header>
+<body>
+    <main>
+        <h1 id="title">Ip Man</h1>
+        <p>The man who trained Bruce Lee</p>
+        <figure>
+            <img id="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Yip_Man.jpg/220px-Yip_Man.jpg" alt="A portrait of Ip Man left and Bruce Lee on the right"/>
+            <figcaption id="image-caption">Ip Man, left, is the creater of Wing Chun who famously trained Bruce Lee before he moved to the USA however he is famous for more.</figcaption>
+        </figure>
+    </main>
+</body>
