@@ -12,7 +12,44 @@
         <p>The man who trained Bruce Lee</p>
         <figure>
             <img id="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Yip_Man.jpg/220px-Yip_Man.jpg" alt="A portrait of Ip Man left and Bruce Lee on the right"/>
-            <figcaption id="image-caption">Ip Man, left, is the creater of Wing Chun who famously trained Bruce Lee before he moved to the USA however he is famous for more.</figcaption>
+            <figcaption id="image-caption">Ip Man, left, the master of Wing Chun who  trained Bruce Lee before he moved to the USA however he is famous for more.</figcaption>
         </figure>
+        <section>
+            <h3>Here's a timeline of Ip Man's life:</h3>
+            <ul>
+                <li>
+                    <strong>1893</strong>
+                    - Born in Foshan
+                </li>
+                <li>
+                    <strong>1906</strong>
+                    - Ip Man begins training in Wing Chun
+                </li>
+                <li>
+                    <strong>1909</strong>
+                    - Moved to Hong Kong
+                </li>
+                <li>
+                    <strong>1916</strong>
+                    - Married Cheung Wing-sing and returned to Foshan
+                </li>
+                <li>
+                    <strong>1937</strong>
+                    - Moved to Kwok Fu during second Sino-Japanese War
+                </li>
+                <li>
+                    <strong>1950</strong>
+                    - Family returned to Hong Kong, but due to the border closure Ip and his family were seperated.
+                </li>
+                <li>
+                    <strong>1960</strong>
+                    - Official Wing Chun assosciation is created
+                </li>
+                <li>
+                    <strong>1972</strong>
+                    - Ip Man passes away
+                </li>
+            </ul>
+        </section>
     </main>
 </body>
