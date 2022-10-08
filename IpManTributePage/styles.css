@@ -1,6 +1,12 @@
+html {
+    font-size: 10px;
+}
+
 img {
     display: block;
     max-width: 100%;
+    height: auto;
+    margin: 0 auto;
     vertical-align: middle;
 }
 
@@ -23,8 +29,17 @@ ul {
     text-align: left;
     max-width: 550px;
     margin: 0 auto 50px auto;
+    line-height: 1.6;
+}
+
+li {
+    margin: 16px 0;
 }
 
 main {
     padding: auto;
+}
+
+blockquote {
+    font-style: italic;
 }
