@@ -1,64 +1,65 @@
 <!DOCTYPE html>
-<html>
-<head> 
-    <meta charset="UTF-8"/>
-    <meta name="description" content="A Tribute page remembering the life of Ip Man, the Wing Chun Legend." />
-    <title> Ip Man Tribute</title>
-    <link rel="stylesheet" href="styles.css" />
-</head>
+<html lang="en">
+    <head> 
+        <meta charset="UTF-8"/>
+        <meta name="description" content="A Tribute page remembering the life of Ip Man, the Wing Chun Legend." />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title> Ip Man Tribute</title>
+        <link rel="stylesheet" href="styles.css" />
+    </head>
 
-<body>
-    <main id="main">
-        <h1 id="title">Ip Man</h1>
-        <p>The man who trained Bruce Lee</p>
-        <figure id="img-div">
-            <img id="image" src="http://www.kwokwingchun.com/img/assets/ip-man-fook-sau-bruce-lee.jpg"/>
-            <figcaption id="img-caption">Ip Man, right, the master of Wing Chun who trained Bruce Lee and shaped the world of martial arts as we know it</figcaption>
-        </figure>
-        <section id="tribute-info">
-            <h3>Here's a timeline of Ip Man's life:</h3>
-            <ul>
-                <li>
-                    <strong>1893</strong>
-                    - Born in Foshan
-                </li>
-                <li>
-                    <strong>1906</strong>
-                    - Ip Man begins training in Wing Chun
-                </li>
-                <li>
-                    <strong>1909</strong>
-                    - Moved to Hong Kong
-                </li>
-                <li>
-                    <strong>1916</strong>
-                    - Married Cheung Wing-sing and returned to Foshan
-                </li>
-                <li>
-                    <strong>1937</strong>
-                    - Moved to Kwok Fu during second Sino-Japanese War
-                </li>
-                <li>
-                    <strong>1950</strong>
-                    - Family returned to Hong Kong, but due to the border closure Ip and his family were seperated.
-                </li>
-                <li>
-                    <strong>1960</strong>
-                    - Official Wing Chun assosciation is created
-                </li>
-                <li>
-                    <strong>1972</strong>
-                    - Ip Man passes away
-                </li>
-            </ul>
-            <blockquote>
-                <p>"We all have innder demons to fight, we call these demons, fear, and hatred and anger. If you do not conquer them then a life of one hundred years is a tragedy. If you do then a life of a single day is a triumph."</p>
-                <cite>-- Ip Man</cite>
-            </blockquote>
-            <h3>
-                 If you have time, feel free to read up more about this amazing human being on <a id="tribute-link" href="https://en.wikipedia.org/wiki/Ip_Man" target="_blank">Wikipedia</a>
-            </h3>
-        </section>
-    </main>
-</body>
+    <body>
+        <main id="main">
+            <h1 id="title">Ip Man</h1>
+            <p>The man who trained Bruce Lee</p>
+            <figure id="img-div">
+                <img id="image" src="http://www.kwokwingchun.com/img/assets/ip-man-fook-sau-bruce-lee.jpg"/>
+                <figcaption id="img-caption">Ip Man, right, the master of Wing Chun who trained Bruce Lee and shaped the world of martial arts as we know it</figcaption>
+            </figure>
+            <section id="tribute-info">
+                <h3>Here's a timeline of Ip Man's life:</h3>
+                <ul>
+                    <li>
+                        <strong>1893</strong>
+                        - Born in Foshan
+                    </li>
+                    <li>
+                        <strong>1906</strong>
+                        - Ip Man begins training in Wing Chun
+                    </li>
+                    <li>
+                        <strong>1909</strong>
+                        - Moved to Hong Kong
+                    </li>
+                    <li>
+                        <strong>1916</strong>
+                        - Married Cheung Wing-sing and returned to Foshan
+                    </li>
+                    <li>
+                        <strong>1937</strong>
+                        - Moved to Kwok Fu during second Sino-Japanese War
+                    </li>
+                    <li>
+                        <strong>1950</strong>
+                        - Family returned to Hong Kong, but due to the border closure Ip and his family were seperated.
+                    </li>
+                    <li>
+                        <strong>1960</strong>
+                        - Official Wing Chun assosciation is created
+                    </li>
+                    <li>
+                        <strong>1972</strong>
+                        - Ip Man passes away
+                    </li>
+                </ul>
+                <blockquote>
+                    <p>"We all have innder demons to fight, we call these demons, fear, and hatred and anger. If you do not conquer them then a life of one hundred years is a tragedy. If you do then a life of a single day is a triumph."</p>
+                    <cite>-- Ip Man</cite>
+                </blockquote>
+                <h3>
+                    If you have time, feel free to read up more about this amazing human being on <a id="tribute-link" href="https://en.wikipedia.org/wiki/Ip_Man" target="_blank">Wikipedia</a>
+                </h3>
+            </section>
+        </main>
+    </body>
 </html>
